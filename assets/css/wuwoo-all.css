@@ -43,7 +43,7 @@ body {
 #wu_summery {
   color: #fff;
   text-shadow: 0 0 0.8px green;
-  background-image: url(//images/home_page/1366xRoyalBarge.jpg);
+  background-image: url(/images/home_page/1366xRoyalBarge.jpg);
 }
 #wu_summery > div {
   background: rgba(0, 0, 0, 0.45);
@@ -100,19 +100,19 @@ body {
   animation: windright-sm 2.5s linear infinite;
 }
 .wuwoo-hr {
-  background-image: url(//svgai/hr.svg);
+  background-image: url(/svgai/hr.svg);
   height: 28px;
 }
 .wuwoo-hr-normal {
-  background-image: url(//svgai/hr_normal.svg);
+  background-image: url(/svgai/hr_normal.svg);
   height: 28px;
 }
 .wuwoo-bg-hr-normal {
-  background-image: url(//svgai/bg_hr_normal.svg);
+  background-image: url(/svgai/bg_hr_normal.svg);
   height: 28px;
 }
 .wuwoo-bg-hr {
-  background-image: url(//svgai/bg-hr.svg);
+  background-image: url(/svgai/bg-hr.svg);
   background-repeat: repeat-x;
   height: 35px;
 }
@@ -568,7 +568,7 @@ main.main_page {
 }
 .wallpaper {
   height: 50vh;
-  background: url(//images/The-rich-culture-and-the-tradition-of-tea-cover.jpg)
+  background: url(/images/The-rich-culture-and-the-tradition-of-tea-cover.jpg)
     center center no-repeat fixed #ddd;
   background-size: cover;
 }
